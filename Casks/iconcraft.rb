@@ -1,6 +1,6 @@
 cask "iconcraft" do
-  version "0.14.0"
-  sha256 "f95233eac2bf80e0a5c13a83dd185429c4918356a9ee8cc39922bea76801c9de"
+  version "0.14.1"
+  sha256 "3a1d24c89ab85ccd5606b7e920aaadf7aa2a9a0d746f2bc2db05f118139d71df"
 
   url "https://github.com/gshipman223/IconCraft/releases/download/v#{version}/IconCraft-Mac-#{version}.dmg"
   name "IconCraft"
